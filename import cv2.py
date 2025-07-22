@@ -1,4 +1,4 @@
-import cv2
+import cv2 # type: ignore
 import numpy as np
 from time import sleep
 from appium import webdriver
